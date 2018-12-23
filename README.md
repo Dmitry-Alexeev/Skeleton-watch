@@ -28,4 +28,4 @@ http://dmitryironcity.zzz.com.ua/portfolio/subprojects/skeleton/index.html
 
 ## Demo на GitHub
 
-https://dmitry-alexeev.github.io/portfolio------docs/subprojects/skeleton/index.html
+https://dmitry-alexeev.github.io/Skeleton-watch/
